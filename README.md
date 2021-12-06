@@ -1,2 +1,4 @@
 # torrent-simulator
-Simulating downloads with torrent in Javascript
+Egyszerű program, mely letöltéseket szimulál. Megadva a letöltési sebességet, a "Letöltés" gombra kattintva annyi százalékkal halad a letöltés a különböző méretű fileoknál. 
+
+Készítve: 2021.01.04.
